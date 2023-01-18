@@ -1,2 +1,2 @@
 # exemples-ebac
-exe
+Exemplos de projeto para o curso da Ebac.
